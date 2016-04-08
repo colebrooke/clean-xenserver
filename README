@@ -1,5 +1,7 @@
 Collection of scripts for maintenance / cleaning of xenserver.
 
+Tested on xenserver 6.2 and 6.5
+
 One way of deployment on xenserver, is to use git
 
 yum install git
