@@ -1,0 +1,11 @@
+Collection of scripts for maintenance / cleaning of xenserver.
+
+One way of deployment on xenserver, is to use git
+
+yum install git
+git config --global http.sslVerify false
+git clone https://github.com/colebooke/clean-xenserver.git
+
+But generally these scripts just need running once, you could deploy manually or use your exsiting systems to deploy.
+
+
